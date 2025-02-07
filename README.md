@@ -15,7 +15,7 @@
 Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais.
 <br>
 
-#### [Deploy do projeto (preview)](https://ecommerce-matealves.vercel.app/home)<br><br>
+<!-- #### [Deploy do projeto (preview)](link)<br><br> -->
 
 <p id="start"></p>
 
@@ -68,5 +68,4 @@ Entre em contato através dos links a seguir!
 
 </p>
 <br>
-<br>
-<br>
+
