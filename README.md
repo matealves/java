@@ -21,7 +21,7 @@ Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muit
 
 ### Como rodar o projeto no terminal?
 
-#### 1 - Clonar o Repositório
+#### 1 - clonar o Repositório
 
 ```sh
 git clone https://github.com/matealves/java.git
@@ -33,7 +33,7 @@ git clone https://github.com/matealves/java.git
 cd name_folder
 ```
 
-#### 3 - Gerar código compilado e executar no terminal:
+#### 3 - gerar código compilado e executar no terminal:
 
 ```sh
 javac src/Main.java
