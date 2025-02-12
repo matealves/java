@@ -36,8 +36,8 @@ cd name_folder
 #### 3 - gerar código compilado e executar no terminal:
 
 ```sh
-javac src/Main.java
-java -cp src Main
+javac -d bin src/*.java
+java -cp bin Name_file
 ```
 
 <br>
