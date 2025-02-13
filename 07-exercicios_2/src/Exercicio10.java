@@ -6,15 +6,18 @@ public class Exercicio10 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
 
-            int a, b;
-            a = sc.nextInt();
-            b = sc.nextInt();
+            int horaInicial, horaFinal, duracao;
 
-            if (a % b == 0 || b % a == 0) {
-                System.out.println("Multiplos");
+            horaInicial = sc.nextInt();
+            horaFinal = sc.nextInt();
+
+            if (horaInicial < horaFinal) {
+                duracao = horaFinal - horaInicial;
             } else {
-                System.out.println("Não Multiplos");
+                duracao = 24 - horaInicial + horaFinal;
             }
+
+            System.out.println("O JOGO DUROU " + duracao + " HORA(S)");
         }
     }
 }
