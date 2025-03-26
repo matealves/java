@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "17-funcoes-sintaxe_50a70e71"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "17-funcoes-sintaxe"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Executar Main",
+      "mainClass": "meu.pacote.Main",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
