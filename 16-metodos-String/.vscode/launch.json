@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "16-String-metodos_76044747"
+    },
+    {
+      "type": "java",
       "request": "launch",
       "name": "Executar Exercicio00",
       "mainClass": "meu.pacote.Exercicio00",
